@@ -21,7 +21,7 @@ class ApiController extends Controller
     }
 
     // Actions
-    // http://localhost/testing/yii_restapi/index.php/api/pengguna
+    // http://localhost/contoh_yii1_restapi/index.php/api/pengguna
     public function actionList()
     {
         // Get the respective model instance

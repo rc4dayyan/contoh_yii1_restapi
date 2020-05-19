@@ -62,7 +62,7 @@ return array(
 			'connectionString' => 'mysql:host=localhost;dbname=yii_restapi',
 			'emulatePrepare' => true,
 			'username' => 'root',
-			'password' => 'Admin_1234',
+			'password' => '12345678',
 			'charset' => 'utf8',
 		),
 
